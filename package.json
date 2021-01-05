@@ -1,0 +1,10 @@
+{
+  "name": "@vottuscode/ts-topbar",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "topbar": "^0.1.4"
+  }
+}
